@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**micheuslima/micheuslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello World 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micheuslima&show_icons=true&theme=aura)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheuslima&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/micheuslima/micheuslima/blob/output/github-contribution-grid-snake.svg)
