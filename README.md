@@ -13,7 +13,7 @@
 &nbsp;
 
 <h2>
-<p align="center"> 👋 Sobre mim // About me: 👋</p>
+<p align="center"> 👋 Sobre mim /// About me: 👋</p>
 </h2>
 
 Meu nome é Michel de Lima, tenho 25 anos e atualmente trabalho como profissional de TI na Defensoria Pública da União (infelizmente sou terceirizado e não concursado 😢), atualmente faço faculdade de designer gráfico na SATC e fiz 3 semestres de Análise e Desenvolvimento de Sistemas, durante o ensino médio no IFSC tive curso técnico integrado de Mecatronica e além de vários outros cursos voltado para a parte de informática, alguns em plataformas virtuais e outros em locais físicos na minha cidade.
@@ -23,7 +23,7 @@ Eu sempre gostei de alguns jogos como Counter-Strike 1.6, PointBlank e Brasfoot,
 
 &nbsp;
 
-<h2><p align="center"> 👨‍💻 Experiências // Experiences 👨‍💻</p></h2>
+<h2><p align="center"> 👨‍💻 Experiências /// Experiences 👨‍💻</p></h2>
 
 <div>
 <p align="center"> 
@@ -45,7 +45,7 @@ Eu sempre gostei de alguns jogos como Counter-Strike 1.6, PointBlank e Brasfoot,
 </div>
 &nbsp;
 
-<h2><p align="center"> 💻🖥️ Estação de trabalho // Workspace 🖥️💻</p></h2>
+<h2><p align="center"> 💻🖥️ Estação de trabalho /// Workspace 🖥️💻</p></h2>
 
 <div>
 <h4>PC:</h4>
