@@ -32,7 +32,7 @@ Eu sempre gostei de alguns jogos como Counter-Strike 1.6, PointBlank e Brasfoot,
 <div align="center">
   <a href="https://github.com/micheuslima">
   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=micheuslima&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheuslima&show_icons=true&layout=compact&langs_count=8&theme=aura"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheuslima&show_icons=true&include_all_commits=true&layout=compact&langs_count=8&theme=aura"/>
 </div>
 
 &nbsp;
