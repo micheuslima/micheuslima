@@ -29,10 +29,7 @@ Eu sempre gostei de alguns jogos como Counter-Strike 1.6, PointBlank e Brasfoot,
 <a target='_blank' href="#"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/micheuslima">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=micheuslima&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-</div>
+
 
 &nbsp;
 <h2><p align="center"> 💻🖥️ Estação de trabalho /// Workspace 🖥️💻</p></h2>
