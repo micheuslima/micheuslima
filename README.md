@@ -1,14 +1,13 @@
 <div><p align="center"> 
-<a href="https://twitter.com/micheuslima" target='_blank'><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://instagram.com/micheuslima" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://instagram.com/mchzdigital" target='_blank'><img src="https://img.shields.io/badge/Instagram-dcdcdc?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
+<a href="https://instagram.com/mchzinfo" target='_blank'><img src="https://img.shields.io/badge/Instagram-dcdcdc?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
 <a href="https://linkedin.com/in/micheuslima/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p></div>
 
 &nbsp;
 <h2><p align="center"> 👋 Sobre mim /// About me: 👋</p></h2>
 
-Meu nome é Michel de Lima, tenho 27 anos e atualmente trabalho como profissional de TI na Defensoria Pública da União (infelizmente sou terceirizado e não concursado 😢), atualmente faço faculdade de designer gráfico na SATC e fiz 3 semestres de Análise e Desenvolvimento de Sistemas, durante o ensino médio no IFSC tive curso técnico integrado de Mecatronica e além de vários outros cursos voltado para a parte de informática, alguns em plataformas virtuais e outros em locais físicos na minha cidade.
+Meu nome é Michel de Lima e atualmente trabalho como profissional de TI (infra e terceirizados) e me aventuro na programação e na cibersegurança.
 
 &nbsp;
 <h2><p align="center"> 👨‍💻 Experiências /// Experiences 👨‍💻</p></h2>
@@ -27,3 +26,4 @@ Meu nome é Michel de Lima, tenho 27 anos e atualmente trabalho como profissiona
 
 &nbsp;
 <h2><p align="center"> 💻🖥️ Estação de trabalho /// Workspace 🖥️💻</p></h2>
+
