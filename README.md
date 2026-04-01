@@ -1,7 +1,7 @@
 <div><p align="center"> 
-<a href="https://instagram.com/micheuslima" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://instagram.com/mchzinfo" target='_blank'><img src="https://img.shields.io/badge/Instagram-dcdcdc?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
-<a href="https://linkedin.com/in/micheuslima/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="/" target='_blank'><img src="https://img.shields.io/badge/Instagram-dcdcdc?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
+<a href="/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p></div>
 
 &nbsp;
